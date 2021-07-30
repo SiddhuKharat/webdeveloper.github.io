@@ -216,7 +216,7 @@ border: 2px solid black;
 
   grid-template-columns: repeat(3, auto);
 
-  grid-gap: 1rem;
+  grid-gap: 1.2rem;
 
   justify-content: center;
 
@@ -228,11 +228,11 @@ border: 2px solid black;
 
   padding: 7px;
 
-  margin: 25px 12px;
+  margin: auto;
 
   border-radius: 0px;
 
-  justify-content: space-between;
+  /*justify-content: space-between;*/
 
   /*background:#3F3F3F;*/
 
