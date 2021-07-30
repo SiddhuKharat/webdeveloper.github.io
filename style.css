@@ -228,11 +228,11 @@ border: 2px solid black;
 
   padding: 7px;
 
-  margin: auto;
+  margin: 12px 3px;
 
   border-radius: 0px;
 
-/*justify-content: space-between;*/
+  justify-content: space-between;
 
   /*background:#3F3F3F;*/
 
