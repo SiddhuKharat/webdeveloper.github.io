@@ -198,13 +198,13 @@ border: 2px solid black;
 
 .services-bg {
 
-  border: 2px solid black;
+  /*border: 2px solid black;*/
 
-  margin-top: 32px;
+  margin-top: 39px;
 
   background: url(sbg.jpg);
 
-  height: 800px;
+  height: 900px;
 
 }
 
